@@ -41,9 +41,9 @@ else{
  else if(average>=50 && average<=59){
  	System.out.println("Congratulations for your C grade.");
  }
-// else if(average>=40 && average<=49){
-// 	System.out.println("You have a D grade.");
-// }
+ else if(average>=40 && average<=49){
+ 	System.out.println("You have a D grade.");
+ }
 // else{
 // 	System.out.println("You have an E grade: Study hard.");
 // }
