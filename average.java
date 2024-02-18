@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Average{
-// public static void main(String[] args)
-// {
+ public static void main(String[] args)
+{
 // double math, biology, chemistry, english, swahili, total,average;
 // Scanner eunice= new Scanner(System.in); 
 
@@ -51,5 +51,5 @@ public class Average{
 
 
 
-//}
+}
 }
