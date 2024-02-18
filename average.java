@@ -24,10 +24,10 @@ double math, biology, chemistry, english, swahili, total,average;
 
  if(math>100 || biology>100 || chemistry>100 || english>100 || swahili>100){
  	System.out.println("Marks not entered correctly:");
-// }
-// else{
-// 	total= math + biology + chemistry + english + swahili;
-// 	System.out.println("The total is:"+ total);
+ }
+else{
+ 	total= math + biology + chemistry + english + swahili;
+ 	System.out.println("The total is:"+ total);
 
 // 	average= total/5;
 // 	System.out.println("The average is:"+ average);
