@@ -15,8 +15,8 @@ double math, biology, chemistry, english, swahili, total,average;
  System.out.println("Enter chemistry marks:");
   chemistry = eunice.nextInt();
 
-// System.out.println("Enter english marks:");
-//  english = eunice.nextInt();
+ System.out.println("Enter english marks:");
+  english = eunice.nextInt();
 
 // System.out.println("Enter swahili marks:");
 //  swahili = eunice.nextInt();
