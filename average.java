@@ -44,10 +44,10 @@ else{
  else if(average>=40 && average<=49){
  	System.out.println("You have a D grade.");
  }
-// else{
-// 	System.out.println("You have an E grade: Study hard.");
-// }
-// }
+ else{
+ 	System.out.println("You have an E grade: Study hard.");
+ }
+ }
 
 
 
