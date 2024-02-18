@@ -6,8 +6,8 @@ public class Average{
 double math, biology, chemistry, english, swahili, total,average;
  Scanner eunice= new Scanner(System.in); 
 
-// System.out.println("Enter math marks:");
-//  math = eunice.nextInt();
+ System.out.println("Enter math marks:");
+  math = eunice.nextInt();
 
 // System.out.println("Enter biology marks:");
 //  biology = eunice.nextInt();
