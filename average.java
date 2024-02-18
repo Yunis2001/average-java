@@ -22,8 +22,8 @@ double math, biology, chemistry, english, swahili, total,average;
   swahili = eunice.nextInt();
 
 
-// if(math>100 || biology>100 || chemistry>100 || english>100 || swahili>100){
-// 	System.out.println("Marks not entered correctly:");
+ if(math>100 || biology>100 || chemistry>100 || english>100 || swahili>100){
+ 	System.out.println("Marks not entered correctly:");
 // }
 // else{
 // 	total= math + biology + chemistry + english + swahili;
