@@ -29,8 +29,8 @@ else{
  	total= math + biology + chemistry + english + swahili;
  	System.out.println("The total is:"+ total);
 
-// 	average= total/5;
-// 	System.out.println("The average is:"+ average);
+ 	average= total/5;
+ 	System.out.println("The average is:"+ average);
 
 // if(average>=70){
 // 	System.out.println("Congratulations for your A grade.");
