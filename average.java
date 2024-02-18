@@ -18,8 +18,8 @@ double math, biology, chemistry, english, swahili, total,average;
  System.out.println("Enter english marks:");
   english = eunice.nextInt();
 
-// System.out.println("Enter swahili marks:");
-//  swahili = eunice.nextInt();
+ System.out.println("Enter swahili marks:");
+  swahili = eunice.nextInt();
 
 
 // if(math>100 || biology>100 || chemistry>100 || english>100 || swahili>100){
