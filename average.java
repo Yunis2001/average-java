@@ -35,9 +35,9 @@ else{
  if(average>=70){
  	System.out.println("Congratulations for your A grade.");
  }
-// else if(average>=60 && average<=69){
-// 	System.out.println("Congratulations for your B grade.");
-// }
+ else if(average>=60 && average<=69){
+ 	System.out.println("Congratulations for your B grade.");
+ }
 // else if(average>=50 && average<=59){
 // 	System.out.println("Congratulations for your C grade.");
 // }
