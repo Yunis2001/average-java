@@ -32,9 +32,9 @@ else{
  	average= total/5;
  	System.out.println("The average is:"+ average);
 
-// if(average>=70){
-// 	System.out.println("Congratulations for your A grade.");
-// }
+ if(average>=70){
+ 	System.out.println("Congratulations for your A grade.");
+ }
 // else if(average>=60 && average<=69){
 // 	System.out.println("Congratulations for your B grade.");
 // }
